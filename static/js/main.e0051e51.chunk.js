@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-sweet-site"]=this["webpackJsonpmy-sweet-site"]||[]).push([[0],{4:function(e,t,s){"use strict";s.r(t);s(0);var n=s(3),r=s.n(n),c=s(2),o=function(){return Object(c.jsx)("h1",{children:" Whats ups people  "})};r.a.render(Object(c.jsx)(o,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.e0051e51.chunk.js.map
